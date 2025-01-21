@@ -1,6 +1,6 @@
 # Batch-Hide_files
 This is a batch file that allows you to hide files
-Here's a README file that summarizes the functionality of your `shh.bat` script and how it works:
+
 
 
 The Batch Hide files is a batch script designed to manage hidden files on a Windows system. It allows users to hide files, show hidden files, and view a list of currently hidden files. This tool is useful for users who want to keep certain files out of sight without deleting them.
